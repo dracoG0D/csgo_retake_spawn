@@ -1,1 +1,2 @@
-Import to csgo/addons/sourcemod/configs/retakes
+- Retake spawns created by WAVY CS:GO Community
+- Import to csgo/addons/sourcemod/configs/retakes
